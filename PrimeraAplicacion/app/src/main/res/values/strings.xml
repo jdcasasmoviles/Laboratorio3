@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="app_name2">SegundaActividad</string>
+    <string name="action_settings">OtroSettings</string>
+    <string name="seg_actividad">Mi Segunda Actividad</string>
+    <string name="Pulsame">pulsame</string>
+</resources>
